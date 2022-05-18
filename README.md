@@ -10,6 +10,11 @@ accuracy of 83 percent. However, there was not a significant difference in the a
 
 Comparitive analaysis of classification score and ROC-AUC curve of the three models is given below:
 
+Bernoulli Naive Bayes:
 ![Bernoulli Naive Bayes](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_BNB.PNG)
+
+Logistic Regression:
 ![Logistic Regression](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_LR.PNG)
+
+Support Vector Machine:
 ![Support Vector Machine](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_SVM.PNG)
