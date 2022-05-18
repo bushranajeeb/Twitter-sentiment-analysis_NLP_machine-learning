@@ -13,7 +13,9 @@ Bernoulli Naive Bayes:
 ![Bernoulli Naive Bayes](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_BNB.PNG)
 
 Logistic Regression:
+
 ![Logistic Regression](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_LR.PNG)
 
 Support Vector Machine:
+
 ![Support Vector Machine](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_SVM.PNG)
