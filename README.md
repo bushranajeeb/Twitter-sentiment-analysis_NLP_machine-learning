@@ -1,6 +1,6 @@
 # Twitter-sentiment-analysis_NLP_machine-learning
 
-In this paper, various machine learning techniques are used to analyse the sentiment of tweets from the Sentiment140 dataset, which includes the use of three basic
+In this project, various machine learning techniques are used to analyse the sentiment of tweets from the Sentiment140 dataset, which includes the use of three basic
 classifiers: Logistic Regression, Bernoulli Naive Bayes (BNB), and Support Vector Machine (SVM), as well as the TF-IDFand CountVectorizer method to analyse the frequency of terms in the data. The accuracy score containing precision, recall and F1 Scores are then used to evaluate the performance of machine learning classifiers.
 
 We may deduce the following conclusion after assessing all of the models: 
