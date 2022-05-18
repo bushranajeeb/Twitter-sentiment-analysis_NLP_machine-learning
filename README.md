@@ -8,9 +8,8 @@ We may deduce the following conclusion after assessing all of the models:
 When it comes to model accuracy, Logistic Regression turned out be the one with the highest
 accuracy of 83 percent. However, there was not a significant difference in the accuracies of the model but Support Vector Machine outperformed Bernoulli Naive Bayes method.
 
-Comparitive analaysis of classification score and ROC-AUC curve of the three models is given below:
-
 Bernoulli Naive Bayes:
+
 ![Bernoulli Naive Bayes](https://github.com/bushranajeeb/Twitter-sentiment-analysis_NLP_machine-learning/blob/main/Results_BNB.PNG)
 
 Logistic Regression:
